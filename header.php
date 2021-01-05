@@ -25,8 +25,8 @@ global $themify; ?>
 			<div class="pagewidth clearfix">
 
 					<ul class="contact">
-				        <li><img src="<?php print IMAGES; ?>/phone.png" alt="5ink phone number" /><span>1-401-787-8226</span></li>
-				        <li class="last"><img src="<?php print IMAGES; ?>/mail.png" alt="5ink email" /><a href="mailto:info@5inkscreenprinting.com">info@5inkscreenprinting.com</a></li>
+				        <li><img src="<?php print IMAGES; ?>/phone.png" alt="Five-ink phone number" /><a href="tel:1-401-787-8226">1-401-787-8226</a></li>
+				        <li class="last"><img src="<?php print IMAGES; ?>/mail.png" alt="5ink email" /><a href="mailto:info@five-ink.com">info@five-ink.com</a></li>
 				    </ul> 
 
 						<?php if(!themify_check('setting-exclude_search_form')): ?>
